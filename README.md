@@ -1,4 +1,2 @@
 # testrepo
-this is an exercice
-## Editting the file
-this is a markdown file in this repository
+Il s'agit d'un markdown ici!
